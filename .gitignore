@@ -3,7 +3,7 @@
 medialib
 *.DS_Store
 data
-node_modules/sqlite3
+node_modules
 files/log/log*
 files/media/*
 files/package/*
