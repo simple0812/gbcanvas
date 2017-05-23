@@ -1,0 +1,10 @@
+/.DS_Store
+/.idea
+medialib
+*.DS_Store
+data
+node_modules/sqlite3
+files/log/log*
+files/media/*
+files/package/*
+public/Screenshots/*
