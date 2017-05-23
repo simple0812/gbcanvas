@@ -1,4 +1,4 @@
-esp = require 'esp'
+esp = require '../espx'
 Group = require '../model/group'
 _ = require 'underscore'
 

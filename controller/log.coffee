@@ -1,4 +1,4 @@
-esp = require 'esp'
+esp = require '../espx'
 fs = require 'fs'
 _ = require 'underscore'
 moment = require 'moment'

@@ -1,4 +1,4 @@
-esp = require 'esp'
+esp = require '../espx'
 User = require '../model/user'
 querystring = require 'querystring'
 

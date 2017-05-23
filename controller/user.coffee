@@ -1,4 +1,4 @@
-esp = require 'esp'
+esp = require '../espx'
 User = require '../model/user'
 BoxUnionUser = require '../model/boxunionuser'
 _ = require 'underscore'

@@ -1,4 +1,4 @@
-esp = require 'esp'
+esp = require '../espx'
 _ = require 'underscore'
 
 class Group extends esp.Model

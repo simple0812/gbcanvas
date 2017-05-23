@@ -1,4 +1,4 @@
-esp = require 'esp'
+esp = require '../espx'
 Task = require '../model/task'
 Box = require '../model/box'
 Playlist = require '../model/playlist'

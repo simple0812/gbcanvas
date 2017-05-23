@@ -1,4 +1,4 @@
-esp = require 'esp'
+esp = require '../espx'
 url = require 'url'
 serviceEntry = require '../service/serviceEntry'
 serviceManager = serviceEntry.serviceManager

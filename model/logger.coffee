@@ -1,4 +1,4 @@
-esp = require 'esp'
+esp = require '../espx'
 path = require 'path'
 winston = require 'winston'
 moment = require 'moment'

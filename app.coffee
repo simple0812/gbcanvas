@@ -1,5 +1,5 @@
 #!/usr/bin/env coffee
-esp = require 'esp'
+esp = require './espx'
 
 esp.TMP_DIR = 'files/tmp'
 esp.MEDIA_STORAGE = 'files/media'

@@ -1,4 +1,4 @@
-esp = require 'esp'
+esp = require '../espx'
 fs = require 'fs'
 path = require 'path'
 _ = require 'underscore'

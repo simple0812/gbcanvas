@@ -1,4 +1,4 @@
-esp = require 'esp'
+esp = require '../espx'
 User = require '../model/user'
 _ = require 'underscore'
 Playlist = require '../model/playlist'
