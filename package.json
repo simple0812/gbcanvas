@@ -3,14 +3,17 @@
   "description": "GBVISION Version 3.0",
   "author": "kongxianghai songkang, zhanglei, chenxincong",
   "dependencies": {
+    "archiver": "^1.3.0",
     "blueimp-md5": "1.0.3",
     "esp": "^0.1.16",
     "filesize": "2.0.0",
+    "fluent-ffmpeg": "^2.1.2",
     "formidable": "1.0.14",
+    "mkdirp": "^0.5.1",
     "moment": "2.4.0",
     "node-html-encoder": "0.0.2",
     "socket.io": "^2.0.1",
-    "sqlite3": "2.1.7",
+    "sqlite3": "^3.1.8",
     "underscore": "1.5.2",
     "winston": "0.7.2"
   }
